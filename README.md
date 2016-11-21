@@ -1,5 +1,5 @@
 Team Members:
-Parth Lathiya
+Parth Lathiya,
 Rushang Dhanesha
 
 Project Title:
