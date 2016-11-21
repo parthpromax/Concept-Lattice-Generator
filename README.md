@@ -1,12 +1,14 @@
-CS699: Software Lab Project
+Team Members:
+Parth Lathiya
+Rushang Dhanesha
 
+Project Title:
 Generate Concept Lattice from Access Matrix
 
-Team Members:
-Rushang Dhanesha - 163050024
-Parth Lathiya - 163050095
+This project is live on:
+https://www.cse.iitb.ac.in/~parthiitb/swlab/
 
-Files:
+FILEINDEX:
 - index.php
 	It provides the UI to the project. It takes input of Access Matrix from a html table. This data is dumped into a file named "in.txt" on the server. It displays the output diagram.
 
@@ -27,3 +29,7 @@ Files:
 
 - makefile
 	It will be called by index.php. It contains command to run CreateLattice.py and generate CreateLattice.dot. Then it will generate Lattice.png & Lattice.pdf from CreateLattice.dot.
+
+Requirements to use offline:
+	Web Server
+	Python
