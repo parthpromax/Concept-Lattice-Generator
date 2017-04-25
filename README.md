@@ -1,7 +1,3 @@
-Team Members:
-Parth Lathiya,
-Rushang Dhanesha
-
 Project Title:
 Generate Concept Lattice from Access Matrix
 
