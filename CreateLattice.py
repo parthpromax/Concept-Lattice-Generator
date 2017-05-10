@@ -1,3 +1,10 @@
+
+
+#                    ** author **
+#                ** Parth Lathiya **
+#    ** https://www.cse.iitb.ac.in/~parthiitb/ **
+
+ 
 from numpy import genfromtxt
 from itertools import chain,combinations
 
