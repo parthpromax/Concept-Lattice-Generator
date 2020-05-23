@@ -1,8 +1,8 @@
 Project Title:
 Generate Concept Lattice from Access Matrix
 
-This project is live on:
-https://www.cse.iitb.ac.in/~parthiitb/swlab/
+~~This project is live on:
+https://www.cse.iitb.ac.in/~parthiitb/swlab/~~
 
 FILEINDEX:
 - index.php
